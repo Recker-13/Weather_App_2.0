@@ -18,6 +18,8 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________
 ### Screenshots
 
+![screenshot1](https://github.com/user-attachments/assets/4f4db25f-ccb3-426b-8d9c-046354aa79e9)
+![screenshot2](https://github.com/user-attachments/assets/1a3ca7ce-9485-47ca-8c6a-e50d8bf49cab)
 
 
 
