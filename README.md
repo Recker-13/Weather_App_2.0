@@ -1,17 +1,19 @@
- # Flutter Weather App Example
+# Weather App
 
-This is a simple weather app built using Flutter and OpenWeatherMap API The app provides current weather conditions and a 5-day weather forecast, with dynamic weather icons.
+Welcome to the Weather App! This Flutter application provides real-time weather information for any city around the world. Users can search for a city and view current weather details, including temperature, weather description, and more.
 ____________________________________________________________________________________________________
 ## Features
 
-- **Current Weather**: Displays the current weather condition and temperature with appropriate icons.
-- **5-day Weather Forecast**: Provides a forecast for the next five days with updates every 3 hours.
-- **Search by City**: Allows users to search for weather conditions in various cities.
+- **Search for City:** Users can input the name of any city to retrieve its current weather information.
+- **Real-Time Weather Data:** Fetches real-time weather data using the OpenWeatherMap API.
+- **User-Friendly Interface:** Designed with a clean and intuitive UI for ease of use.
+- **Responsive Design:** Optimized for both mobile and tablet devices.
 ____________________________________________________________________________________________
 ## App Preview
 ### GIF
 
-![GIF_20240929_080335_935](https://github.com/user-attachments/assets/46d2eebc-fc4b-4ffe-be48-d359d81d0acb)
+![Weather_app_gif](https://github.com/user-attachments/assets/17526724-8e9b-4770-8944-d2413f6987fa)
+
 
 ______________________________________________________________________________________________
 ### Screenshots
@@ -25,6 +27,4 @@ _______________________________________________________________________
 
 
  **Add your OpenWeatherMap API key**:
-   Replace `'YOUR_API_KEY'` in the code with your actual API key.
-   ```dart
-   const String apiKey = 'YOUR_API_KEY';
+   const String apiKey = '63e232aee5fbb408fb26a55faab1174d';
