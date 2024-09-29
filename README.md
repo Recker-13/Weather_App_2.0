@@ -27,4 +27,6 @@ _______________________________________________________________________
 
 
  **Add your OpenWeatherMap API key**:
-   const String apiKey = '63e232aee5fbb408fb26a55faab1174d';
+   Replace `'YOUR_API_KEY'` in the code with your actual API key.
+   ```dart
+   const String apiKey = 'YOUR_API_KEY';
